@@ -1,0 +1,16 @@
+User story for online booking system -
+As a customer, I should be able to easily book an online appointment with the preferred service so that I save time and get a slot that fits my schedule.
+
+Dod-
+Log into the system easily
+The system should show available appointments
+I can select the time and date.
+I can successfully book an appointment
+
+User story for E-commerce Website-
+As a user, I should be able to view my order status so that I know the estimated time of order delivery.
+
+Dod-
+Log into the e-commerce website easily and view "Orders" section.
+The system displays the order details.
+The user views tracking information with the help of order details.
